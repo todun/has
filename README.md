@@ -38,7 +38,7 @@ And echo the status:
 
 Just download the `has` script in your path. 
 
-    git clone https://github.com/kdabir/has.git && cd has && make install
+    git clone https://github.com/todun/has.git && cd has && make install
 
 
 If you are lazy, you can run `has` directly off the internet as well:
